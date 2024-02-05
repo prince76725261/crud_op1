@@ -1,0 +1,15 @@
+
+
+.body {
+    font-family: 'Arial', sans-serif;
+    background-color: green;
+    color: rgb(210, 31, 31);
+}
+
+.h1 {
+    color: #007bff;
+}
+
+.p {
+    font-size: 16px;
+}
